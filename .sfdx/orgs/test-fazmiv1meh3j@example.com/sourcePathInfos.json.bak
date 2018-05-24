@@ -47,15 +47,15 @@
     [
         "D:\\vsCodeProject\\testProject\\force-app\\main\\default\\aura",
         {
+            "state": "u",
             "sourcePath": "D:\\vsCodeProject\\testProject\\force-app\\main\\default\\aura",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1526813282169,
             "changeTime": 1526813282169,
-            "contentHash": "4c01eade869b72bbd66cfccee570a524d94497f7",
-            "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false
+            "isWorkspace": false,
+            "contentHash": "4c01eade869b72bbd66cfccee570a524d94497f7"
         }
     ],
     [
@@ -284,27 +284,27 @@
     [
         "D:\\vsCodeProject\\testProject\\force-app\\main\\default\\aura\\AccountLocator",
         {
+            "state": "u",
             "sourcePath": "D:\\vsCodeProject\\testProject\\force-app\\main\\default\\aura\\AccountLocator",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1526813282186,
             "changeTime": 1526813282186,
-            "contentHash": "bd7161f8b78fb71785cf2b56d7038280fc9b4ca5",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "bd7161f8b78fb71785cf2b56d7038280fc9b4ca5"
         }
     ],
     [
         "D:\\vsCodeProject\\testProject\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.auradoc",
         {
+            "state": "u",
             "sourcePath": "D:\\vsCodeProject\\testProject\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.auradoc",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 209,
             "modifiedTime": 1526813282186,
             "changeTime": 1526813282186,
-            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e"
         }
     ],
     [
@@ -314,101 +314,101 @@
             "sourcePath": "D:\\vsCodeProject\\testProject\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 138,
-            "modifiedTime": 1526813818129,
-            "changeTime": 1526813818129,
-            "contentHash": "6da2bc4832a84ba163de5d088327ce62683fee1a"
+            "size": 37,
+            "modifiedTime": 1526813282170,
+            "changeTime": 1526813282170,
+            "contentHash": "bac5bb79bbfe029fc6eb7729b2e53aee4b008e71"
         }
     ],
     [
         "D:\\vsCodeProject\\testProject\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp-meta.xml",
         {
+            "state": "u",
             "sourcePath": "D:\\vsCodeProject\\testProject\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 246,
             "modifiedTime": 1526813282175,
             "changeTime": 1526813282175,
-            "contentHash": "dfe99a871ed485dfde85a92f9ef175c42e82cbc9",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "dfe99a871ed485dfde85a92f9ef175c42e82cbc9"
         }
     ],
     [
         "D:\\vsCodeProject\\testProject\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.css",
         {
+            "state": "u",
             "sourcePath": "D:\\vsCodeProject\\testProject\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.css",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 133,
             "modifiedTime": 1526813350146,
             "changeTime": 1526813350146,
-            "contentHash": "897a218365eeb2e0671cc64370e8e3f74a2c78dc",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "897a218365eeb2e0671cc64370e8e3f74a2c78dc"
         }
     ],
     [
         "D:\\vsCodeProject\\testProject\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.design",
         {
+            "state": "u",
             "sourcePath": "D:\\vsCodeProject\\testProject\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.design",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 40,
             "modifiedTime": 1526813282187,
             "changeTime": 1526813282187,
-            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec"
         }
     ],
     [
         "D:\\vsCodeProject\\testProject\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.svg",
         {
+            "state": "u",
             "sourcePath": "D:\\vsCodeProject\\testProject\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.svg",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 661,
             "modifiedTime": 1526813282185,
             "changeTime": 1526813282185,
-            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4"
         }
     ],
     [
         "D:\\vsCodeProject\\testProject\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorController.js",
         {
+            "state": "u",
             "sourcePath": "D:\\vsCodeProject\\testProject\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorController.js",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 65,
             "modifiedTime": 1526813282177,
             "changeTime": 1526813282177,
-            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf"
         }
     ],
     [
         "D:\\vsCodeProject\\testProject\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorHelper.js",
         {
+            "state": "u",
             "sourcePath": "D:\\vsCodeProject\\testProject\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorHelper.js",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 45,
             "modifiedTime": 1526813282178,
             "changeTime": 1526813282178,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
         }
     ],
     [
         "D:\\vsCodeProject\\testProject\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorRenderer.js",
         {
+            "state": "u",
             "sourcePath": "D:\\vsCodeProject\\testProject\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorRenderer.js",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 50,
             "modifiedTime": 1526813282183,
             "changeTime": 1526813282183,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
         }
     ]
 ]
